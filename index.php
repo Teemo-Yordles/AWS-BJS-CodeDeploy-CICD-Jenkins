@@ -26,8 +26,8 @@
 </head>
 <body>
   <div align="center">
-    <h1>AWS DevOps Demo for Disneyland - V3</h1>
-    <h2>Github + ALB + CodeDeploy + Jenkins</h2> 
+    <h1>AWS DevOps Demo for Disneyland - V1</h1>
+    <h2>Github + CodeDeploy + Jenkins</h2> 
     <h2>AWS BJS CodeDeploy Demo</h2>
   </div>
   </br>
