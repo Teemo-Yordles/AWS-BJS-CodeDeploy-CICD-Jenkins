@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+
   <meta charset="utf-8">
   <title>BJS CodeDeploySample</title>
   <style>
