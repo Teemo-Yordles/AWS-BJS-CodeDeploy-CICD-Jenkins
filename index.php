@@ -41,7 +41,6 @@
     </br>    
     <h2>EC2 Instance ID: <?php echo $instance_id; ?></h2>
     <h2>EC2 Zone: <?php echo $zone; ?></h2>
-    <h2>EC2 Private IP: <?php echo $private_id; ?></h2>
     </br>
     <p>Please refer this link for more details. <a href="http://aws.amazon.com/documentation/codedeploy">AWS CodeDeploy Document</a>.</p>
   </div>    
